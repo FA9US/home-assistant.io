@@ -18,7 +18,7 @@ ha_integration_type: integration
 ---
 
 The Wallbox integration pulls data from the [MyWallbox Portal](https://my.wallbox.com) for your Wallbox charging station.
-
+use your name of charger station rather than serial number
 {% include integrations/config_flow.md %}
 
 ## Sensors
